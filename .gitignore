@@ -1,0 +1,13 @@
+# Ignore build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# NuGet
+packages/
+
+# User file
+*.user
+*.log

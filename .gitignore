@@ -1,13 +1,26 @@
-# Ignore build
+# Visual Studio
+.vs/
+
+# Build folders
 bin/
 obj/
 
-# Visual Studio
-.vs/
+# User files
+*.user
+*.suo
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+
+# Logs
+*.log
 
 # NuGet
 packages/
 
-# User file
-*.user
-*.log
+# OS files
+Thumbs.db
+Desktop.ini
